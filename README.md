@@ -33,7 +33,7 @@ cmake ..
 cmake --build .
 ```
 
-This will create the executable (by default `DataStructures`).
+This will create the executable (by default `data_structures`).
 
 ### Run
 
@@ -41,7 +41,7 @@ This will create the executable (by default `DataStructures`).
 ./data_structures
 ```
 
-On Windows, replace `./data_structures` with the path to the executable (e.g., `data_sturctures.exe`).
+On Windows, replace `./data_structures` with the path to the executable (e.g., `data_structures.exe`).
 
 ## Project Structure
 
