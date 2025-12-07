@@ -1,5 +1,5 @@
 cmake_minimum_required(VERSION 3.29)
-project(DataStructures C)
+project(data_structures C)
 
 set(CMAKE_C_STANDARD 11)
 
@@ -17,4 +17,4 @@ set(SOURCES
         LinkedList/listnode.c
 )
 
-add_executable(DataStructures ${SOURCES})
+add_executable(data_structures ${SOURCES})
